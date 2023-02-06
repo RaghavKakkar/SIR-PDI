@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_736579_sir_custo_sir_demo">x_736579_sir_custo_sir_demo</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>SINT</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 08:18:16</sys_created_on>
+        <sys_id>4c9bb612dbb4a1109add1d630596193d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SINT</sys_name>
+        <sys_package display_value="SIR-Custom-Demo" source="x_736579_sir_custo">cdaa7a52db74a1109add1d6305961920</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SIR-Custom-Demo">cdaa7a52db74a1109add1d6305961920</sys_scope>
+        <sys_update_name>sys_number_4c9bb612dbb4a1109add1d630596193d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-06 08:18:16</sys_updated_on>
+    </sys_number>
+</record_update>
